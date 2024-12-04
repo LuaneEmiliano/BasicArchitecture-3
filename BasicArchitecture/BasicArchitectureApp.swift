@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Test change
 @main
 struct BasicArchitectureApp: App {
   // uses real service to fetch data
